@@ -1,0 +1,32 @@
+{
+  "name": "vuetify3-confirm-dialog",
+  "version": "1.0.0",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "s": "yarn serve",
+    "build": "vue-cli-service build",
+    "deploy": "./deploy.sh"
+  },
+  "dependencies": {
+    "tiny-emitter": "^2.1.0",
+    "vue": "^3.2.13",
+    "vuetify": "^3.1.4",
+    "vuetify3-confirm-dialog": "^2.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "gh-pages": "^5.0.0"
+  },
+  "description": "The Confirm dialog for Vue3 extend Vuetify3",
+  "main": "src/main.js",
+  "keywords": [
+    "vue3 confirm dialog",
+    "vuetify3 confirm dialog"
+  ],
+  "author": "TanDD <https://tandd.dev>",
+  "license": "ISC",
+  "homepage": "https://demo.tandd.dev/vuefify3-confirm-dialog"
+}
